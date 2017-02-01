@@ -8,3 +8,7 @@ adding 4th line
 adding 6th line
 
 #### adding 7th line
+
+added support for https://gitpitch.com/
+
+see the result here https://gitpitch.com/GiorgosK/testing
